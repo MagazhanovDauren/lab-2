@@ -1,0 +1,6 @@
+*.set
+Binaries/
+Diagnosis/
+Temp/
+*.apj
+*.isopen
